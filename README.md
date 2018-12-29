@@ -1,4 +1,4 @@
-# Hotelify:) - Frontend
+# Hotelify:) - Client
 
     This applications validates, visualizes, uploads and converts to various
     formats of given csv files which are consists of hotel informations like
