@@ -31,3 +31,7 @@
     npm install
     npm start
     ```
+### Warning
+    Please be sure this client app points to the correct server endpoint in backendUri.js
+    
+    ![backend](https://user-images.githubusercontent.com/11095906/50542117-cd292780-0bc5-11e9-9351-cdbb0af6d3f7.PNG)
