@@ -13,7 +13,7 @@
 
 ### Built With
 
-    ```
+  
     Create-React-App
     React-Router
     Redux
@@ -21,16 +21,16 @@
     Axios
     Bootstrap
     Devexpress Reactive Grid
-    ```
+    
 
 ### Installing
 
-    ```
+    
     First clone and run the Backend App which can be found in my github repositories
     clone the repository
     npm install
     npm start
-    ```
+    
 
 
 Please be sure this client app points to the correct server endpoint in backendUri.js
